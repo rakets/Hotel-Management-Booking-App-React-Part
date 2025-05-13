@@ -1,10 +1,10 @@
 const FooterComponent = () => {
-    return(
+    return (
         <footer>
             <span className="my-footer">
-                Phegon Hotel | All Rights Reserved &copy; {new Date().getFullYear}
+                Hotel | All Right Reserved &copy; {new Date().getFullYear()}
             </span>
         </footer>
-    )
-}
-export default FooterComponent
+    );
+};
+export default FooterComponent;
