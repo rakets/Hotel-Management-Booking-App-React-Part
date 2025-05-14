@@ -136,7 +136,7 @@ export default class ApiService {
         const response = await axios.post(`${this.BASE_URL}/bookings/book-room/${roomId}/${userId}`, booking, {
             headers: this.getHeader()
         });
-        return result.data;
+        return response.data;
     }
 
     // * This function gets all bookings from the database *
