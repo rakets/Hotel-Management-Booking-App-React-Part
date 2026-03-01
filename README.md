@@ -1,70 +1,87 @@
-# Getting Started with Create React App
+# Job Portal Web Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+<img src="https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-3-1572B6?style=for-the-badge&logo=css3" alt="CSS" />
+<img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Bootstrap-5-7952B3?style=for-the-badge&logo=bootstrap" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+</p>
 
-## Available Scripts
+**Hotel-Management-Booking-App-React-Part** – React frontend for a Hotel Management Booking Application.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 📑 Table of Contents
+* [Screenshots](#-screenshots)
+* [Tech Stack](#-tech-stack)
+* [How to Run the Project](#-how-to-run-the-project)
+* [Project Structure](#-project-structure)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📸 Screenshots
 
-### `npm test`
+<!-- <p align="center">
+  <img src="./docs/login-page.png" width="230"/>
+  <img src="./docs/home-page-1.png" width="230"/>
+  <img src="./docs/home-page-2.png" width="230"/>
+  <img src="./docs/home-page-3.png" width="230"/>
+  <img src="./docs/registation-page.png" width="230"/>
+</p> -->
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img src="./docs/registation-page.png" width="230"/>
+<img src="./docs/login-page.png" width="230"/>
+<img src="./docs/home-page-1.png" width="230"/>
+<img src="./docs/home-page-2.png" width="230"/>
+<img src="./docs/home-page-3.png" width="230"/>
+<img src="./docs/all_rooms.png" width="230"/>
+<img src="./docs/add-new-room.png" width="230"/>
+<img src="./docs/bookings.png" width="230"/>
+<img src="./docs/booking-details.png" width="230"/>
+<img src="./docs/find-my-booking.png" width="230"/>
+<img src="./docs/rooms-1.png" width="230"/>
+<img src="./docs/rooms-2.png" width="230"/>
+<img src="./docs/room-details.png" width="230"/>
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🏗 Tech Stack
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* **React 19**
+* **Styling:**HTML, CSS, Bootstrap 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🚀 How to Run the Project
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/rakets/Hotel-Management-Booking-App-React-Part.git
+    ```
+2.  **Go to the project folder:**
+    ```bash
+    cd Hotel-Management-Booking-App-React-Part
+    ```
+3. **Install dependencies:**
+    ```bash
+    npm install
+    ```
+    ```bash
+    npm install react-scripts –save
+    ```
+4.  **Start the development server:**
+    ```bash
+    npm start
+    ```
+    The application will be available at `http://localhost:3000`.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 📂 Project Structure
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="center">
+  <img src="./docs/project-structure-1.png" width="230"/>
+  <img src="./docs/project-structure-2.png" width="230"/>
+  <img src="./docs/project-structure-3.png" width="230"/>
+</p>
