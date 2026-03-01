@@ -13,6 +13,7 @@
 ---
 
 ## 📑 Table of Contents
+
 * [Screenshots](#-screenshots)
 * [Tech Stack](#-tech-stack)
 * [How to Run the Project](#-how-to-run-the-project)
@@ -22,34 +23,28 @@
 
 ## 📸 Screenshots
 
-<!-- <p align="center">
-  <img src="./docs/login-page.png" width="230"/>
-  <img src="./docs/home-page-1.png" width="230"/>
-  <img src="./docs/home-page-2.png" width="230"/>
-  <img src="./docs/home-page-3.png" width="230"/>
-  <img src="./docs/registation-page.png" width="230"/>
-</p> -->
-
-<img src="./docs/registation-page.png" width="230"/>
-<img src="./docs/login-page.png" width="230"/>
-<img src="./docs/home-page-1.png" width="230"/>
-<img src="./docs/home-page-2.png" width="230"/>
-<img src="./docs/home-page-3.png" width="230"/>
-<img src="./docs/all_rooms.png" width="230"/>
-<img src="./docs/add-new-room.png" width="230"/>
-<img src="./docs/bookings.png" width="230"/>
-<img src="./docs/booking-details.png" width="230"/>
-<img src="./docs/find-my-booking.png" width="230"/>
-<img src="./docs/rooms-1.png" width="230"/>
-<img src="./docs/rooms-2.png" width="230"/>
-<img src="./docs/room-details.png" width="230"/>
+<p align="center">
+  <img src="./docs/registation-page.png" width="600"/>
+  <img src="./docs/login-page.png" width="600"/>
+  <img src="./docs/home-page-1.png" width="600"/>
+  <img src="./docs/home-page-2.png" width="600"/>
+  <img src="./docs/home-page-3.png" width="600"/>
+  <img src="./docs/all_rooms.png" width="600"/>
+  <img src="./docs/add-new-room.png" width="600"/>
+  <img src="./docs/bookings.png" width="600"/>
+  <img src="./docs/booking-details.png" width="600"/>
+  <img src="./docs/find-my-booking.png" width="600"/>
+  <img src="./docs/rooms-1.png" width="600"/>
+  <img src="./docs/rooms-2.png" width="600"/>
+  <img src="./docs/room-details.png" width="600"/>
+</p>
 
 ---
 
 ## 🏗 Tech Stack
 
 * **React 19**
-* **Styling:**HTML, CSS, Bootstrap 
+* **Styling:** HTML, CSS, Bootstrap 
 
 ---
 
