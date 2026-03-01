@@ -14,9 +14,9 @@
 
 ## 📑 Table of Contents
 
-* [Screenshots](#-screenshots)
 * [Tech Stack](#-tech-stack)
 * [How to Run the Project](#-how-to-run-the-project)
+* [Screenshots](#-screenshots)
 * [Project Structure](#-project-structure)
 
 ---
