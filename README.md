@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </p>
 
-**Hotel-Management-Booking-App-React-Part** – React frontend for a Hotel Management Booking Application.
+**Hotel-Management-Booking-App-React-Part** – React frontend for a Hotel Management Booking Application. Backend part you can take from https://github.com/rakets/Hotel-Management-Booking-App .
 
 ---
 
@@ -50,6 +50,8 @@
     npm start
     ```
     The application will be available at `http://localhost:3000`.
+5.  **Take backend part:**
+    Backend part you can take from https://github.com/rakets/Hotel-Management-Booking-App
 
 ---
 
