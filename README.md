@@ -1,4 +1,4 @@
-# Job Portal Web Application
+# Hotel Management Booking Application
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5" alt="HTML" />
